@@ -5,7 +5,6 @@ This is a DashBoard for a E-commerce working administration and it displays all 
 The Dashboard also includes the graphical representation of all the review given the all the customers on a star based system.
 
 
-The link to the website is :- https://ananddubey1711.github.io/react-admin-dashboard/
 
 
 
